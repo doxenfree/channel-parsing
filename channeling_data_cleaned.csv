@@ -1,0 +1,1001 @@
+channeling skill,level,class,spell,hits,result,level gap
+110,21,Magician,Gate,2,Failure,17
+110,21,Magician,Gate,1,Failure,17
+110,21,Magician,Shock of Flame,1,Success,0
+110,21,Magician,Renew Summoning,1,Failure,0
+110,21,Magician,Renew Summoning,1,Failure,0
+110,21,Magician,Shield of Flame,2,Failure,0
+110,21,Magician,Shock of Flame,1,Failure,0
+110,22,Magician,Shock of Flame,1,Failure,0
+111,22,Magician,Shock of Flame,1,Success,0
+115,22,Magician,Shock of Flame,1,Failure,0
+115,22,Magician,Lesser Summoning: Fire,1,Success,0
+115,22,Magician,Shock of Flame,1,Success,0
+115,22,Magician,Shock of Flame,1,Failure,0
+210,55,Druid,Grasping Roots,1,Success,50
+210,55,Druid,Grasping Roots,1,Success,50
+210,55,Druid,Spirit of Wolf,1,Success,41
+210,55,Druid,Grasping Roots,2,Success,50
+210,55,Druid,Grasping Roots,1,Success,50
+210,55,Druid,Grasping Roots,1,Success,50
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Grasping Roots,1,Success,50
+210,55,Druid,Grasping Roots,1,Success,50
+210,55,Druid,Wrath of Nature,1,Success,0
+210,55,Druid,Ensnare,3,Failure,26
+210,55,Druid,Drones of Doom,1,Failure,21
+210,55,Druid,Engulfing Roots,2,Success,0
+210,55,Druid,Wrath of Nature,1,Failure,0
+210,55,Druid,Wrath of Nature,2,Failure,0
+210,55,Druid,Engulfing Roots,1,Failure,0
+210,55,Druid,Engulfing Roots,1,Failure,0
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Engulfing Roots,2,Failure,0
+210,55,Druid,Engulfing Roots,2,Success,0
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Engulfing Roots,1,Failure,0
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Scoriae,2,Success,0
+210,55,Druid,Scoriae,1,Success,0
+210,55,Druid,Drones of Doom,3,Failure,21
+210,55,Druid,Ensnare,1,Success,26
+210,55,Druid,Superior Camouflage,1,Failure,36
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Engulfing Roots,2,Failure,0
+210,55,Druid,Engulfing Roots,2,Failure,0
+210,55,Druid,Engulfing Roots,2,Success,0
+210,55,Druid,Wrath of Nature,2,Failure,0
+210,55,Druid,Ensnare,1,Success,26
+210,55,Druid,Engulfing Roots,1,Failure,0
+210,55,Druid,Engulfing Roots,2,Success,0
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Ensnare,1,Success,26
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Ensnare,1,Success,26
+210,55,Druid,Drones of Doom,1,Failure,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Winged Death,1,Success,0
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,2,Failure,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,4,Failure,21
+210,55,Druid,Wrath of Nature,2,Failure,0
+210,55,Druid,Drones of Doom,2,Failure,21
+210,55,Druid,Drones of Doom,2,Failure,21
+210,55,Druid,Drones of Doom,3,Success,21
+210,55,Druid,Drones of Doom,2,Failure,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Wrath of Nature,1,Success,0
+210,55,Druid,Drones of Doom,1,Failure,21
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Fixation of Ro,1,Success,11
+210,55,Druid,Superior Healing,1,Failure,0
+210,55,Druid,Engulfing Roots,1,Failure,0
+210,55,Druid,Superior Healing,2,Failure,0
+210,55,Druid,Superior Healing,2,Failure,0
+210,55,Druid,Wrath of Nature,1,Failure,0
+210,55,Druid,Wrath of Nature,1,Failure,0
+210,55,Druid,Girdle of Karana,1,Success,0
+210,55,Druid,Engulfing Roots,1,Failure,0
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Winged Death,1,Failure,0
+211,56,Druid,Engorging Roots,1,Failure,0
+211,56,Druid,Engorging Roots,1,Success,0
+211,56,Druid,Engorging Roots,2,Failure,0
+211,56,Druid,Engorging Roots,1,Success,0
+211,56,Druid,Winged Death,3,Failure,0
+211,56,Druid,Wrath of Nature,1,Failure,0
+211,56,Druid,Succor: Ro,7,Success,17
+211,56,Druid,Superior Healing,3,Success,0
+211,56,Druid,Wrath of Nature,3,Failure,0
+211,56,Druid,Upheaval,1,Success,0
+211,56,Druid,Upheaval,2,Success,0
+211,56,Druid,Shield of Thorns,1,Success,7
+211,56,Druid,Wrath of Nature,1,Success,0
+211,56,Druid,Winged Death,1,Failure,0
+211,56,Druid,Engulfing Roots,1,Success,7
+211,56,Druid,Gate,2,Failure,51
+211,56,Druid,Gate,3,Failure,51
+211,56,Druid,Wrath of Nature,2,Failure,0
+211,56,Druid,Ensnare,2,Success,27
+211,56,Druid,Ice,1,Failure,7
+211,56,Druid,Scoriae,3,Failure,0
+211,56,Druid,Wrath of Nature,1,Success,0
+211,56,Druid,Scoriae,1,Success,0
+211,56,Druid,Succor: Lavastorm,1,Failure,12
+211,56,Druid,Engorging Roots,1,Success,0
+211,56,Druid,Ensnare,2,Failure,27
+211,56,Druid,Engorging Roots,1,Success,0
+211,56,Druid,Ensnare,1,Success,27
+211,56,Druid,Ensnare,1,Failure,27
+211,56,Druid,Ensnare,2,Success,27
+211,56,Druid,Spirit of Eagle,2,Failure,0
+211,56,Druid,Lightning Blast,1,Success,7
+211,56,Druid,Ensnare,2,Success,27
+211,56,Druid,Ensnare,1,Success,27
+211,56,Druid,Scoriae,1,Success,0
+211,56,Druid,Wrath of Nature,1,Success,0
+211,56,Druid,Wrath of Nature,1,Failure,0
+211,56,Druid,Succor: Ro,3,Failure,17
+211,56,Druid,Superior Healing,1,Failure,0
+211,56,Druid,Wrath of Nature,4,Failure,0
+211,56,Druid,Wrath of Nature,4,Failure,0
+211,56,Druid,Drones of Doom,1,Failure,22
+211,56,Druid,Drones of Doom,1,Success,22
+211,56,Druid,Ensnare,1,Success,27
+211,57,Druid,Wrath of Nature,1,Success,7
+211,57,Druid,Drones of Doom,2,Success,23
+211,57,Druid,Wrath of Nature,3,Failure,7
+211,57,Druid,Ensnare,1,Success,28
+211,57,Druid,Superior Healing,1,Failure,0
+211,57,Druid,Superior Healing,1,Failure,0
+211,57,Druid,Superior Healing,1,Success,0
+211,57,Druid,Wrath of Nature,1,Failure,7
+211,57,Druid,Wrath of Nature,3,Success,7
+211,57,Druid,Drones of Doom,3,Success,23
+211,57,Druid,Wrath of Nature,5,Success,7
+211,57,Druid,Drones of Doom,3,Success,23
+211,57,Druid,Wrath of Nature,5,Failure,7
+211,57,Druid,Wrath of Nature,2,Failure,7
+211,57,Druid,Ensnare,2,Success,28
+211,57,Druid,Wrath of Nature,1,Success,7
+211,57,Druid,Ensnare,2,Success,28
+211,57,Druid,Wrath of Nature,2,Success,7
+211,57,Druid,Drones of Doom,2,Success,23
+211,57,Druid,Scoriae,1,Success,0
+211,57,Druid,Wrath of Nature,4,Success,7
+211,57,Druid,Wrath of Nature,2,Failure,7
+211,57,Druid,Wrath of Nature,1,Success,7
+211,57,Druid,Wrath of Nature,1,Failure,7
+211,57,Druid,Wrath of Nature,1,Success,7
+211,57,Druid,Wrath of Nature,1,Failure,7
+211,57,Druid,Wrath of Nature,1,Failure,7
+211,57,Druid,Wrath of Nature,4,Failure,7
+211,57,Druid,Wrath of Nature,5,Success,7
+211,57,Druid,Wrath of Nature,4,Failure,7
+211,57,Druid,Chloroblast,4,Success,0
+211,57,Druid,Succor: Ro,5,Success,18
+213,57,Druid,Circle of Summer,1,Success,0
+214,57,Druid,Spirit of Eagle,2,Failure,0
+214,57,Druid,Wrath of Nature,7,Success,7
+214,57,Druid,Enduring Breath,2,Success,48
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Scoriae,1,Failure,0
+214,57,Druid,Engorging Roots,2,Success,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Scoriae,2,Failure,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Ensnare,1,Success,28
+214,57,Druid,Scoriae,2,Success,0
+214,57,Druid,Ensnare,1,Success,28
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Frost,4,Failure,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Scoriae,2,Success,0
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Wrath of Nature,6,Failure,7
+214,57,Druid,Scoriae,1,Failure,0
+214,57,Druid,Scoriae,2,Success,0
+214,57,Druid,Drones of Doom,4,Success,23
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Pack Chloroplast,2,Success,8
+214,57,Druid,Drones of Doom,1,Failure,23
+214,57,Druid,Ro`s Fiery Sundering,1,Failure,18
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Fixation of Ro,2,Failure,13
+214,57,Druid,Wrath of Nature,2,Failure,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Fixation of Ro,3,Success,13
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Scoriae,1,Failure,0
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Scoriae,2,Failure,0
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Scoriae,1,Failure,0
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Scoriae,2,Success,0
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,3,Success,7
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Scoriae,1,Failure,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Egress,1,Failure,0
+214,57,Druid,Circle of Feerrott,6,Success,23
+214,57,Druid,Breath of Ro,17,Failure,0
+214,57,Druid,Spirit of Eagle,1,Success,0
+214,57,Druid,Circle of Wakening Lands,2,Success,13
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,1,Failure,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Drones of Doom,2,Failure,23
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,2,Failure,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,2,Failure,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Drones of Doom,1,Failure,23
+214,57,Druid,Drones of Doom,5,Success,23
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,3,Success,7
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,3,Failure,7
+214,57,Druid,Wrath of Nature,4,Success,7
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,4,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,2,Failure,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Spirit of Eagle,2,Success,0
+214,57,Druid,Ring of Misty,1,Failure,28
+214,57,Druid,Ring of Misty,2,Success,28
+214,57,Druid,Scoriae,3,Failure,0
+214,57,Druid,Engorging Roots,2,Success,0
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Engorging Roots,2,Failure,0
+214,57,Druid,Engorging Roots,2,Success,0
+214,57,Druid,Scoriae,2,Failure,0
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Winged Death,1,Failure,0
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,2,Failure,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Wrath of Nature,5,Success,7
+214,57,Druid,Drones of Doom,3,Success,23
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,3,Success,7
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Drones of Doom,2,Failure,23
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Ensnare,2,Success,28
+214,57,Druid,Breath of Karana,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,4,Success,7
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Gate,3,Success,52
+214,57,Druid,Engorging Roots,2,Success,0
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Scoriae,1,Failure,0
+214,57,Druid,Pack Chloroplast,1,Success,8
+214,57,Druid,Succor,6,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Winged Death,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Gate,2,Success,52
+214,57,Druid,Breath of Karana,1,Success,0
+214,57,Druid,Succor,12,Failure,0
+214,57,Druid,Ensnare,1,Failure,28
+214,57,Druid,Ensnare,1,Success,28
+214,57,Druid,Wrath of Nature,4,Failure,7
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,2,Failure,0
+214,57,Druid,Engorging Roots,2,Success,0
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Drones of Doom,2,Failure,23
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Breath of Karana,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,2,Success,0
+214,57,Druid,Breath of Karana,2,Success,0
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Breath of Karana,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Breath of Karana,2,Success,0
+214,57,Druid,Egress,1,Success,0
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Engorging Roots,2,Success,0
+214,57,Druid,Wrath of Nature,3,Failure,7
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Drones of Doom,1,Failure,23
+214,57,Druid,Improved Superior Camouflage,2,Failure,7
+214,57,Druid,Breath of Karana,2,Failure,0
+214,57,Druid,Wrath of Nature,3,Failure,7
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Scoriae,1,Failure,0
+214,57,Druid,Scoriae,1,Success,0
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,3,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Improved Superior Camouflage,1,Failure,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Drones of Doom,4,Success,23
+214,57,Druid,Wrath of Nature,5,Success,7
+214,57,Druid,Drones of Doom,2,Success,23
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Drones of Doom,1,Failure,23
+214,57,Druid,Wrath of Nature,2,Failure,7
+214,57,Druid,Wrath of Nature,5,Success,7
+214,57,Druid,Ensnare,1,Success,28
+214,57,Druid,Drones of Doom,5,Success,23
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Scoriae,1,Failure,0
+214,57,Druid,Scoriae,1,Failure,0
+214,57,Druid,Scoriae,1,Failure,0
+214,57,Druid,Scoriae,1,Failure,0
+214,57,Druid,Wrath of Nature,2,Success,7
+214,57,Druid,Wrath of Nature,2,Failure,7
+214,57,Druid,Wrath of Nature,1,Success,7
+214,57,Druid,Wrath of Nature,1,Failure,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Breath of Karana,1,Failure,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Engorging Roots,1,Failure,0
+214,57,Druid,Pack Chloroplast,1,Success,8
+214,57,Druid,Wrath of Nature,2,Failure,7
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Drones of Doom,1,Success,23
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,2,Failure,0
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Resist Magic,1,Success,8
+214,57,Druid,Wrath of Nature,4,Success,7
+214,57,Druid,Engorging Roots,1,Success,0
+214,57,Druid,Engorging Roots,2,Failure,0
+214,57,Druid,Engorging Roots,2,Failure,0
+214,57,Druid,Engorging Roots,2,Success,0
+214,57,Druid,Engorging Roots,1,Success,0
+216,58,Druid,Ensnare,2,Success,29
+216,58,Druid,Ensnare,1,Success,29
+216,58,Druid,Engorging Roots,1,Success,0
+216,58,Druid,Scoriae,1,Success,0
+216,58,Druid,Shield of Blades,2,Failure,0
+216,58,Druid,Regrowth,1,Success,0
+216,58,Druid,Wrath of Nature,1,Failure,8
+216,58,Druid,Engorging Roots,1,Failure,0
+216,58,Druid,Superior Healing,1,Failure,7
+216,58,Druid,Superior Healing,1,Success,7
+216,58,Druid,Ensnare,1,Success,29
+216,58,Druid,Ensnare,1,Failure,29
+216,58,Druid,Engorging Roots,1,Success,0
+216,58,Druid,Wrath of Nature,5,Failure,8
+204,52,Druid,Engulfing Roots,1,Failure,0
+204,52,Druid,Fury of Air,1,Success,18
+204,52,Druid,Invigor,1,Failure,38
+204,52,Druid,Starfire,1,Success,0
+204,52,Druid,Starfire,2,Failure,0
+204,52,Druid,Fury of Air,1,Failure,18
+204,52,Druid,Fury of Air,1,Failure,18
+204,52,Druid,Engulfing Roots,2,Failure,0
+204,52,Druid,Engulfing Roots,2,Success,0
+204,52,Druid,Engulfing Roots,1,Success,0
+204,52,Druid,Spirit of Wolf,2,Success,38
+204,52,Druid,Snare,1,Failure,51
+204,52,Druid,Snare,1,Failure,51
+204,52,Druid,Starfire,1,Failure,0
+204,52,Druid,Starfire,1,Failure,0
+204,52,Druid,Drifting Death,2,Failure,8
+204,52,Druid,Engulfing Roots,1,Success,0
+204,52,Druid,Engulfing Roots,1,Failure,0
+204,52,Druid,Engulfing Roots,1,Failure,0
+204,52,Druid,Starfire,1,Success,0
+204,52,Druid,Starfire,1,Failure,0
+204,52,Druid,Starfire,2,Failure,0
+204,52,Druid,Snare,1,Success,51
+204,52,Druid,Engulfing Roots,1,Success,0
+204,52,Druid,Engulfing Roots,2,Failure,0
+204,52,Druid,Gate,1,Failure,47
+204,52,Druid,Gate,1,Failure,47
+204,52,Druid,Gate,3,Failure,47
+204,52,Druid,Engulfing Roots,1,Success,0
+204,52,Druid,Starfire,1,Failure,0
+204,52,Druid,Starfire,1,Failure,0
+204,52,Druid,Gate,2,Failure,47
+204,52,Druid,Engulfing Roots,2,Failure,0
+204,52,Druid,Starfire,1,Failure,0
+204,52,Druid,Ensnare,1,Success,23
+204,52,Druid,Engulfing Roots,1,Failure,0
+204,52,Druid,Starfire,1,Failure,0
+204,52,Druid,Snare,2,Success,51
+204,52,Druid,Snare,3,Failure,51
+204,52,Druid,Snare,1,Success,51
+204,52,Druid,Snare,2,Success,51
+204,52,Druid,Snare,1,Success,51
+204,52,Druid,Snare,2,Failure,51
+204,52,Druid,Drifting Death,1,Success,8
+204,52,Druid,Snare,1,Success,51
+205,52,Druid,Repulse Animal,1,Success,0
+205,52,Druid,Snare,1,Success,51
+205,52,Druid,Snare,1,Success,51
+205,52,Druid,Repulse Animal,1,Success,0
+205,52,Druid,Drifting Death,1,Success,8
+205,52,Druid,Repulse Animal,1,Failure,0
+205,52,Druid,Repulse Animal,2,Success,0
+205,52,Druid,Repulse Animal,1,Success,0
+206,52,Druid,Starfire,1,Failure,0
+206,52,Druid,Superior Healing,2,Failure,0
+206,52,Druid,Engulfing Roots,1,Success,0
+206,52,Druid,Shield of Thorns,1,Success,0
+206,52,Druid,Shield of Thorns,3,Success,0
+206,52,Druid,Superior Healing,2,Failure,0
+206,52,Druid,Superior Healing,4,Failure,0
+206,52,Druid,Starfire,1,Success,0
+206,52,Druid,Ensnare,3,Success,23
+206,52,Druid,Superior Healing,2,Failure,0
+206,52,Druid,Succor: Butcher,3,Failure,18
+206,52,Druid,Succor: Butcher,3,Success,18
+206,52,Druid,Legacy of Spike,1,Failure,0
+206,52,Druid,Ensnare,2,Failure,23
+206,52,Druid,Ensnare,1,Success,23
+206,52,Druid,Ensnare,1,Success,23
+206,52,Druid,Fury of Air,1,Success,18
+206,52,Druid,Legacy of Spike,1,Failure,0
+206,52,Druid,Engulfing Roots,1,Failure,0
+206,52,Druid,Superior Healing,1,Failure,0
+206,52,Druid,Fury of Air,1,Success,18
+206,52,Druid,Fury of Air,2,Success,18
+206,52,Druid,Engulfing Roots,1,Failure,0
+206,52,Druid,Engulfing Roots,2,Failure,0
+206,52,Druid,Engulfing Roots,1,Success,0
+206,52,Druid,Engulfing Roots,1,Failure,0
+206,52,Druid,Engulfing Roots,1,Failure,0
+206,52,Druid,Engulfing Roots,1,Success,0
+206,52,Druid,Engulfing Roots,1,Success,0
+206,52,Druid,Engulfing Roots,1,Failure,0
+206,52,Druid,Starfire,1,Failure,0
+206,52,Druid,Starfire,1,Success,0
+206,52,Druid,Snare,1,Success,51
+206,52,Druid,Ensnare,2,Failure,23
+206,52,Druid,Engulfing Roots,1,Success,0
+206,52,Druid,Engulfing Roots,1,Success,0
+206,52,Druid,Ensnare,1,Failure,23
+206,52,Druid,Ensnare,1,Success,23
+206,52,Druid,Fury of Air,1,Success,18
+206,52,Druid,Engulfing Roots,1,Success,0
+206,52,Druid,Ensnare,2,Failure,23
+206,52,Druid,Fury of Air,1,Success,18
+206,52,Druid,Starfire,1,Success,0
+206,52,Druid,Engulfing Roots,2,Failure,0
+206,52,Druid,Superior Healing,3,Failure,0
+206,52,Druid,Improved Superior Camouflage,1,Failure,0
+206,52,Druid,Camouflage,2,Success,47
+206,52,Druid,Ensnare,1,Failure,23
+206,52,Druid,Circle of Toxxulia,5,Success,23
+206,52,Druid,Ensnare,1,Success,23
+206,52,Druid,Snare,1,Failure,51
+206,52,Druid,Fury of Air,2,Failure,18
+208,54,Druid,Breath of Ro,1,Failure,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Scoriae,2,Failure,0
+208,54,Druid,Scoriae,2,Success,0
+208,54,Druid,Scoriae,2,Success,0
+208,54,Druid,Engulfing Roots,2,Success,0
+208,54,Druid,Superior Healing,1,Failure,0
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Superior Healing,1,Success,0
+208,54,Druid,Engulfing Roots,1,Failure,0
+208,54,Druid,Breath of Ro,1,Success,0
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Gate,3,Failure,49
+208,54,Druid,Gate,2,Success,49
+208,54,Druid,Engulfing Roots,2,Success,0
+208,54,Druid,Superior Healing,1,Failure,0
+208,54,Druid,Superior Healing,1,Failure,0
+208,54,Druid,Ensnare,1,Failure,25
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Fixation of Ro,6,Failure,10
+208,54,Druid,Superior Healing,3,Failure,0
+208,54,Druid,Superior Healing,1,Success,0
+208,54,Druid,Scoriae,1,Failure,0
+208,54,Druid,Circle of the Combines,2,Failure,20
+208,54,Druid,Circle of the Combines,1,Success,20
+208,54,Druid,Engulfing Roots,1,Failure,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Scoriae,1,Failure,0
+208,54,Druid,Scoriae,1,Success,0
+208,54,Druid,Superior Healing,3,Failure,0
+208,54,Druid,Scoriae,2,Failure,0
+208,54,Druid,Scoriae,2,Success,0
+208,54,Druid,Shield of Thorns,2,Success,0
+208,54,Druid,Ro`s Fiery Sundering,1,Success,15
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Superior Healing,1,Failure,0
+208,54,Druid,Scoriae,1,Success,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Ro`s Fiery Sundering,1,Success,15
+208,54,Druid,Fixation of Ro,1,Failure,10
+208,54,Druid,Scoriae,1,Success,0
+208,54,Druid,Scoriae,1,Success,0
+208,54,Druid,Fixation of Ro,1,Success,10
+208,54,Druid,Wind of the North,1,Success,15
+208,54,Druid,Lightning Blast,1,Failure,0
+208,54,Druid,Superior Healing,2,Failure,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Scoriae,1,Success,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Superior Healing,1,Failure,0
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Engulfing Roots,2,Success,0
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Scoriae,3,Failure,0
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Engulfing Roots,2,Success,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Scoriae,2,Failure,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Scoriae,1,Success,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Scoriae,1,Success,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Superior Healing,5,Failure,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Scoriae,1,Failure,0
+208,54,Druid,Scoriae,1,Success,0
+208,54,Druid,Scoriae,1,Failure,0
+208,54,Druid,Engulfing Roots,1,Failure,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Engulfing Roots,2,Success,0
+208,54,Druid,Engulfing Roots,1,Failure,0
+208,54,Druid,Scoriae,1,Success,0
+208,54,Druid,Scoriae,2,Failure,0
+208,54,Druid,Superior Healing,4,Failure,0
+208,54,Druid,Circle of Commons,1,Failure,25
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Breath of Ro,1,Success,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Scoriae,3,Failure,0
+208,54,Druid,Superior Healing,2,Failure,0
+208,54,Druid,Storm Strength,1,Success,10
+208,54,Druid,Engulfing Roots,3,Failure,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Drones of Doom,1,Success,20
+208,54,Druid,Storm Strength,1,Failure,10
+208,54,Druid,Scoriae,1,Failure,0
+208,54,Druid,Ensnare,1,Failure,25
+208,54,Druid,Ensnare,2,Success,25
+208,54,Druid,Drones of Doom,2,Success,20
+208,54,Druid,Drones of Doom,1,Failure,20
+208,54,Druid,Drones of Doom,1,Success,20
+208,54,Druid,Drones of Doom,1,Success,20
+208,54,Druid,Drones of Doom,3,Failure,20
+208,54,Druid,Drones of Doom,2,Success,20
+208,54,Druid,Ensnare,2,Failure,25
+208,54,Druid,Ensnare,1,Failure,25
+208,54,Druid,Drones of Doom,2,Success,20
+208,54,Druid,Drones of Doom,1,Failure,20
+208,54,Druid,Ensnare,2,Failure,25
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Ensnare,2,Failure,25
+208,54,Druid,Ensnare,1,Failure,25
+208,54,Druid,Drones of Doom,1,Success,20
+208,54,Druid,Superior Healing,1,Success,0
+208,54,Druid,Drones of Doom,2,Success,20
+208,54,Druid,Winged Death,2,Failure,0
+208,54,Druid,Ensnare,2,Failure,25
+208,54,Druid,Ensnare,2,Success,25
+208,54,Druid,Drones of Doom,1,Success,20
+208,54,Druid,Drones of Doom,1,Failure,20
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Drones of Doom,2,Failure,20
+208,54,Druid,Drones of Doom,2,Failure,20
+208,54,Druid,Drones of Doom,1,Failure,20
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Superior Camouflage,1,Failure,35
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Superior Healing,1,Failure,0
+208,54,Druid,Ensnare,2,Failure,25
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Terrorize Animal,2,Success,35
+208,54,Druid,Terrorize Animal,1,Success,35
+208,54,Druid,Scoriae,1,Failure,0
+208,54,Druid,Engulfing Roots,2,Failure,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Repulse Animal,1,Success,0
+208,54,Druid,Repulse Animal,1,Failure,0
+208,54,Druid,Repulse Animal,1,Failure,0
+208,54,Druid,Scoriae,3,Failure,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Engulfing Roots,1,Failure,0
+208,54,Druid,Engulfing Roots,1,Success,0
+208,54,Druid,Nullify Magic,1,Success,10
+208,54,Druid,Drones of Doom,3,Failure,20
+208,54,Druid,Ensnare,1,Success,25
+208,54,Druid,Ensnare,2,Success,25
+208,54,Druid,Engulfing Roots,1,Failure,0
+208,55,Druid,Ring of the Combines,1,Success,31
+208,55,Druid,Engulfing Roots,1,Failure,0
+208,55,Druid,Engulfing Roots,1,Success,0
+208,55,Druid,Engulfing Roots,1,Success,0
+208,55,Druid,Winged Death,1,Failure,0
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Winged Death,3,Failure,0
+210,55,Druid,Winged Death,2,Failure,0
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Drones of Doom,2,Failure,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Drones of Doom,1,Failure,21
+210,55,Druid,Drones of Doom,1,Failure,21
+210,55,Druid,Superior Camouflage,1,Failure,36
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Circle of Toxxulia,2,Success,26
+210,55,Druid,Scoriae,1,Success,0
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Winged Death,1,Success,0
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,2,Failure,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,2,Success,21
+210,55,Druid,Drones of Doom,3,Success,21
+210,55,Druid,Drones of Doom,1,Failure,21
+210,55,Druid,Drones of Doom,2,Failure,21
+210,55,Druid,Drones of Doom,2,Success,21
+210,55,Druid,Breath of Ro,1,Success,0
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Ensnare,1,Success,26
+210,55,Druid,Gate,4,Success,50
+210,55,Druid,Ensnare,1,Success,26
+210,55,Druid,Superior Healing,1,Failure,0
+210,55,Druid,Engulfing Roots,2,Success,0
+210,55,Druid,Ensnare,1,Success,26
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Drones of Doom,2,Failure,21
+210,55,Druid,Ensnare,2,Failure,26
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,1,Failure,21
+210,55,Druid,Scoriae,1,Failure,0
+210,55,Druid,Drones of Doom,5,Success,21
+210,55,Druid,Gate,3,Success,50
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,3,Success,21
+210,55,Druid,Pack Chloroplast,1,Failure,0
+210,55,Druid,Drones of Doom,1,Failure,21
+210,55,Druid,Shield of Thorns,1,Success,0
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Ensnare,1,Failure,26
+210,55,Druid,Ensnare,1,Success,26
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Ensnare,1,Success,26
+210,55,Druid,Drones of Doom,1,Failure,21
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Engulfing Roots,1,Success,0
+210,55,Druid,Drones of Doom,2,Failure,21
+210,55,Druid,Drones of Doom,1,Success,21
+210,55,Druid,Repulse Animal,3,Failure,0
+210,55,Druid,Repulse Animal,2,Failure,0
+210,55,Druid,Drones of Doom,1,Failure,21
+210,55,Druid,Engulfing Roots,1,Success,0
+95,18,Druid,Ignite,1,Failure,9
+95,18,Druid,Ignite,1,Failure,9
+95,18,Druid,Ignite,1,Success,9
+95,18,Druid,Strength of Earth,1,Failure,9
+95,18,Druid,Ignite,1,Failure,9
+145,28,Cleric,Inspire Fear,1,Failure,0
+145,28,Cleric,Inspire Fear,4,Failure,0
+145,28,Cleric,Dismiss Undead,2,Failure,0
+145,28,Cleric,Dismiss Undead,1,Success,0
+145,28,Cleric,Holy Might,1,Failure,9
+145,28,Cleric,Holy Might,2,Failure,9
+145,28,Cleric,Root,2,Failure,19
+145,28,Cleric,Smite,1,Success,14
+145,28,Cleric,Smite,1,Success,14
+145,28,Cleric,Smite,1,Success,14
+145,28,Cleric,Holy Might,1,Success,9
+145,28,Cleric,Yaulp II,1,Success,9
+145,28,Cleric,Smite,1,Success,14
+145,28,Cleric,Holy Might,1,Failure,9
+145,28,Cleric,Smite,1,Success,14
+145,28,Cleric,Smite,2,Failure,14
+155,28,Cleric,Wrath,1,Failure,0
+115,22,Shadow Knight,Fear,1,Success,7
+115,22,Shadow Knight,Clinging Darkness,1,Success,7
+115,22,Shadow Knight,Clinging Darkness,1,Failure,7
+115,22,Shadow Knight,Clinging Darkness,1,Failure,7
+115,22,Shadow Knight,Clinging Darkness,1,Failure,7
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Vampiric Embrace,1,Failure,0
+115,22,Shadow Knight,Siphon Strength,1,Success,13
+115,22,Shadow Knight,Siphon Strength,1,Failure,13
+115,22,Shadow Knight,Siphon Strength,1,Success,13
+115,22,Shadow Knight,Siphon Strength,1,Success,13
+115,22,Shadow Knight,Lifespike,1,Failure,7
+115,22,Shadow Knight,Siphon Strength,1,Failure,13
+115,22,Shadow Knight,Disease Cloud,1,Failure,13
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Disease Cloud,1,Success,13
+115,22,Shadow Knight,Siphon Strength,2,Failure,13
+115,22,Shadow Knight,Disease Cloud,1,Failure,13
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,2,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Success,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Success,0
+115,22,Shadow Knight,Disease Cloud,1,Failure,13
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Success,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Siphon Strength,1,Failure,13
+115,22,Shadow Knight,Siphon Strength,1,Success,13
+115,22,Shadow Knight,Lifespike,1,Failure,7
+115,22,Shadow Knight,Lifespike,2,Failure,7
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Success,0
+115,22,Shadow Knight,Siphon Strength,1,Success,13
+115,22,Shadow Knight,Lifespike,1,Success,7
+115,22,Shadow Knight,Disease Cloud,1,Success,13
+115,22,Shadow Knight,Engulfing Darkness,2,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Success,0
+115,22,Shadow Knight,Disease Cloud,1,Failure,13
+115,22,Shadow Knight,Disease Cloud,1,Failure,13
+115,22,Shadow Knight,Siphon Strength,1,Failure,13
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Success,0
+115,22,Shadow Knight,Disease Cloud,1,Failure,13
+115,22,Shadow Knight,Engulfing Darkness,1,Success,0
+115,22,Shadow Knight,Engulfing Darkness,2,Failure,0
+115,22,Shadow Knight,Lifespike,1,Failure,7
+115,22,Shadow Knight,Engulfing Darkness,2,Failure,0
+115,22,Shadow Knight,Engulfing Darkness,1,Failure,0
+115,23,Shadow Knight,Lifespike,1,Failure,8
+116,23,Shadow Knight,Lifespike,1,Success,8
+116,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+116,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+116,23,Shadow Knight,Engulfing Darkness,1,Success,0
+116,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+116,23,Shadow Knight,Fear,1,Success,8
+116,23,Shadow Knight,Fear,1,Success,8
+116,23,Shadow Knight,Engulfing Darkness,1,Success,0
+116,23,Shadow Knight,Fear,1,Failure,8
+116,23,Shadow Knight,Fear,1,Failure,8
+116,23,Shadow Knight,Engulfing Darkness,2,Failure,0
+116,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+116,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+117,23,Shadow Knight,Disease Cloud,2,Failure,14
+117,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+117,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+117,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+117,23,Shadow Knight,Siphon Strength,1,Success,14
+118,23,Shadow Knight,Disease Cloud,1,Success,14
+118,23,Shadow Knight,Disease Cloud,1,Success,14
+118,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+118,23,Shadow Knight,Siphon Strength,1,Success,14
+119,23,Shadow Knight,Engulfing Darkness,1,Success,0
+119,23,Shadow Knight,Siphon Strength,1,Failure,14
+119,23,Shadow Knight,Disease Cloud,1,Success,14
+119,23,Shadow Knight,Siphon Strength,1,Failure,14
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Siphon Strength,1,Failure,14
+120,23,Shadow Knight,Siphon Strength,1,Failure,14
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Lifespike,1,Failure,8
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Siphon Strength,2,Failure,14
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Siphon Strength,1,Failure,14
+120,23,Shadow Knight,Siphon Strength,2,Success,14
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Lifespike,1,Failure,8
+120,23,Shadow Knight,Disease Cloud,1,Failure,14
+120,23,Shadow Knight,Siphon Strength,1,Failure,14
+120,23,Shadow Knight,Siphon Strength,1,Success,14
+120,23,Shadow Knight,Siphon Strength,1,Success,14
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Siphon Strength,2,Failure,14
+120,23,Shadow Knight,Siphon Strength,1,Success,14
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Engulfing Darkness,1,Success,0
+120,23,Shadow Knight,Siphon Strength,1,Success,14
+120,23,Shadow Knight,Engulfing Darkness,2,Success,0
+120,23,Shadow Knight,Lifespike,1,Failure,8
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Fear,1,Failure,8
+120,23,Shadow Knight,Fear,1,Failure,8
+120,23,Shadow Knight,Fear,1,Failure,8
+120,23,Shadow Knight,Fear,1,Failure,8
+120,23,Shadow Knight,Fear,1,Success,8
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Disease Cloud,2,Failure,14
+120,23,Shadow Knight,Lifespike,1,Failure,8
+120,23,Shadow Knight,Disease Cloud,1,Success,14
+120,23,Shadow Knight,Siphon Strength,2,Success,14
+120,23,Shadow Knight,Fear,1,Failure,8
+120,23,Shadow Knight,Engulfing Darkness,1,Success,0
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Engulfing Darkness,1,Success,0
+120,23,Shadow Knight,Fear,2,Failure,8
+120,23,Shadow Knight,Fear,1,Failure,8
+120,23,Shadow Knight,Fear,1,Success,8
+120,23,Shadow Knight,Fear,1,Failure,8
+120,23,Shadow Knight,Fear,1,Failure,8
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Fear,1,Failure,8
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Siphon Strength,1,Failure,14
+120,23,Shadow Knight,Siphon Strength,1,Failure,14
+120,23,Shadow Knight,Vampiric Embrace,1,Failure,0
+120,23,Shadow Knight,Disease Cloud,1,Failure,14
+120,23,Shadow Knight,Lifespike,1,Success,8
+120,23,Shadow Knight,Lifespike,1,Failure,8
+120,23,Shadow Knight,Siphon Strength,1,Success,14
+120,23,Shadow Knight,Disease Cloud,1,Success,14
+120,23,Shadow Knight,Engulfing Darkness,1,Failure,0
+120,23,Shadow Knight,Siphon Strength,1,Failure,14
+120,23,Shadow Knight,Lifespike,1,Failure,8
+120,23,Shadow Knight,Lifespike,1,Success,8
+120,23,Shadow Knight,Disease Cloud,1,Failure,14
+120,23,Shadow Knight,Disease Cloud,1,Success,14
+120,24,Shadow Knight,Disease Cloud,1,Success,15
+120,24,Shadow Knight,Siphon Strength,1,Success,15
+120,24,Shadow Knight,Lifespike,1,Failure,9
+120,24,Shadow Knight,Lifespike,1,Success,9
+120,24,Shadow Knight,Engulfing Darkness,1,Failure,0
+124,24,Shadow Knight,Engulfing Darkness,1,Failure,0
+125,24,Shadow Knight,Lifespike,1,Failure,9

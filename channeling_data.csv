@@ -1,0 +1,1001 @@
+channeling skill,level,class,spell,hits,result
+110,21,Magician,Gate,2,Failure
+110,21,Magician,Gate,1,Failure
+110,21,Magician,Shock of Flame,1,Success
+110,21,Magician,Renew Summoning,1,Failure
+110,21,Magician,Renew Summoning,1,Failure
+110,21,Magician,Shield of Flame,2,Failure
+110,21,Magician,Shock of Flame,1,Failure
+110,22,Magician,Shock of Flame,1,Failure
+111,22,Magician,Shock of Flame,1,Success
+115,22,Magician,Shock of Flame,1,Failure
+115,22,Magician,Lesser Summoning: Fire,1,Success
+115,22,Magician,Shock of Flame,1,Success
+115,22,Magician,Shock of Flame,1,Failure
+210,55,Preserver,Grasping Roots,1,Success
+210,55,Preserver,Grasping Roots,1,Success
+210,55,Preserver,Spirit of Wolf,1,Success
+210,55,Preserver,Grasping Roots,2,Success
+210,55,Preserver,Grasping Roots,1,Success
+210,55,Preserver,Grasping Roots,1,Success
+210,55,Preserver,Drones of Doom,1,Success
+210,55,Preserver,Grasping Roots,1,Success
+210,55,Preserver,Grasping Roots,1,Success
+210,55,Preserver,Wrath of Nature,1,Success
+210,55,Preserver,Ensnare,3,Failure
+210,55,Preserver,Drones of Doom,1,Failure
+210,55,Preserver,Engulfing Roots,2,Success
+210,55,Preserver,Wrath of Nature,1,Failure
+210,55,Preserver,Wrath of Nature,2,Failure
+210,55,Preserver,Engulfing Roots,1,Failure
+210,55,Preserver,Engulfing Roots,1,Failure
+210,55,Preserver,Engulfing Roots,1,Success
+210,55,Preserver,Engulfing Roots,2,Failure
+210,55,Preserver,Engulfing Roots,2,Success
+210,55,Preserver,Engulfing Roots,1,Success
+210,55,Preserver,Engulfing Roots,1,Failure
+210,55,Preserver,Engulfing Roots,1,Success
+210,55,Preserver,Scoriae,2,Success
+210,55,Preserver,Scoriae,1,Success
+210,55,Preserver,Drones of Doom,3,Failure
+210,55,Preserver,Ensnare,1,Success
+210,55,Preserver,Superior Camouflage,1,Failure
+210,55,Preserver,Engulfing Roots,1,Success
+210,55,Preserver,Engulfing Roots,2,Failure
+210,55,Preserver,Engulfing Roots,2,Failure
+210,55,Preserver,Engulfing Roots,2,Success
+210,55,Preserver,Wrath of Nature,2,Failure
+210,55,Preserver,Ensnare,1,Success
+210,55,Preserver,Engulfing Roots,1,Failure
+210,55,Preserver,Engulfing Roots,2,Success
+210,55,Preserver,Engulfing Roots,1,Success
+210,55,Preserver,Ensnare,1,Success
+210,55,Preserver,Engulfing Roots,1,Success
+210,55,Preserver,Ensnare,1,Success
+210,55,Preserver,Drones of Doom,1,Failure
+210,55,Preserver,Drones of Doom,1,Success
+210,55,Preserver,Drones of Doom,1,Success
+210,55,Preserver,Winged Death,1,Success
+210,55,Preserver,Drones of Doom,1,Success
+210,55,Preserver,Drones of Doom,1,Success
+210,55,Preserver,Drones of Doom,2,Failure
+210,55,Preserver,Drones of Doom,1,Success
+210,55,Preserver,Drones of Doom,4,Failure
+210,55,Preserver,Wrath of Nature,2,Failure
+210,55,Preserver,Drones of Doom,2,Failure
+210,55,Preserver,Drones of Doom,2,Failure
+210,55,Preserver,Drones of Doom,3,Success
+210,55,Preserver,Drones of Doom,2,Failure
+210,55,Preserver,Drones of Doom,1,Success
+210,55,Preserver,Wrath of Nature,1,Success
+210,55,Preserver,Drones of Doom,1,Failure
+210,55,Preserver,Engulfing Roots,1,Success
+210,55,Preserver,Fixation of Ro,1,Success
+210,55,Preserver,Superior Healing,1,Failure
+210,55,Preserver,Engulfing Roots,1,Failure
+210,55,Preserver,Superior Healing,2,Failure
+210,55,Preserver,Superior Healing,2,Failure
+210,55,Preserver,Wrath of Nature,1,Failure
+210,55,Preserver,Wrath of Nature,1,Failure
+210,55,Preserver,Girdle of Karana,1,Success
+210,55,Preserver,Engulfing Roots,1,Failure
+210,55,Preserver,Engulfing Roots,1,Success
+210,55,Preserver,Winged Death,1,Failure
+211,56,Preserver,Engorging Roots,1,Failure
+211,56,Preserver,Engorging Roots,1,Success
+211,56,Preserver,Engorging Roots,2,Failure
+211,56,Preserver,Engorging Roots,1,Success
+211,56,Preserver,Winged Death,3,Failure
+211,56,Preserver,Wrath of Nature,1,Failure
+211,56,Preserver,Succor: Ro,7,Success
+211,56,Preserver,Superior Healing,3,Success
+211,56,Preserver,Wrath of Nature,3,Failure
+211,56,Preserver,Upheaval,1,Success
+211,56,Preserver,Upheaval,2,Success
+211,56,Preserver,Shield of Thorns,1,Success
+211,56,Preserver,Wrath of Nature,1,Success
+211,56,Preserver,Winged Death,1,Failure
+211,56,Preserver,Engulfing Roots,1,Success
+211,56,Preserver,Gate,2,Failure
+211,56,Preserver,Gate,3,Failure
+211,56,Preserver,Wrath of Nature,2,Failure
+211,56,Preserver,Ensnare,2,Success
+211,56,Preserver,Ice,1,Failure
+211,56,Preserver,Scoriae,3,Failure
+211,56,Preserver,Wrath of Nature,1,Success
+211,56,Preserver,Scoriae,1,Success
+211,56,Preserver,Succor: Lavastorm,1,Failure
+211,56,Preserver,Engorging Roots,1,Success
+211,56,Preserver,Ensnare,2,Failure
+211,56,Preserver,Engorging Roots,1,Success
+211,56,Preserver,Ensnare,1,Success
+211,56,Preserver,Ensnare,1,Failure
+211,56,Preserver,Ensnare,2,Success
+211,56,Preserver,Spirit of Eagle,2,Failure
+211,56,Preserver,Lightning Blast,1,Success
+211,56,Preserver,Ensnare,2,Success
+211,56,Preserver,Ensnare,1,Success
+211,56,Preserver,Scoriae,1,Success
+211,56,Preserver,Wrath of Nature,1,Success
+211,56,Preserver,Wrath of Nature,1,Failure
+211,56,Preserver,Succor: Ro,3,Failure
+211,56,Preserver,Superior Healing,1,Failure
+211,56,Preserver,Wrath of Nature,4,Failure
+211,56,Preserver,Wrath of Nature,4,Failure
+211,56,Preserver,Drones of Doom,1,Failure
+211,56,Preserver,Drones of Doom,1,Success
+211,56,Preserver,Ensnare,1,Success
+211,57,Preserver,Wrath of Nature,1,Success
+211,57,Preserver,Drones of Doom,2,Success
+211,57,Preserver,Wrath of Nature,3,Failure
+211,57,Preserver,Ensnare,1,Success
+211,57,Preserver,Superior Healing,1,Failure
+211,57,Preserver,Superior Healing,1,Failure
+211,57,Preserver,Superior Healing,1,Success
+211,57,Preserver,Wrath of Nature,1,Failure
+211,57,Preserver,Wrath of Nature,3,Success
+211,57,Preserver,Drones of Doom,3,Success
+211,57,Preserver,Wrath of Nature,5,Success
+211,57,Preserver,Drones of Doom,3,Success
+211,57,Preserver,Wrath of Nature,5,Failure
+211,57,Preserver,Wrath of Nature,2,Failure
+211,57,Preserver,Ensnare,2,Success
+211,57,Preserver,Wrath of Nature,1,Success
+211,57,Preserver,Ensnare,2,Success
+211,57,Preserver,Wrath of Nature,2,Success
+211,57,Preserver,Drones of Doom,2,Success
+211,57,Preserver,Scoriae,1,Success
+211,57,Preserver,Wrath of Nature,4,Success
+211,57,Preserver,Wrath of Nature,2,Failure
+211,57,Preserver,Wrath of Nature,1,Success
+211,57,Preserver,Wrath of Nature,1,Failure
+211,57,Preserver,Wrath of Nature,1,Success
+211,57,Preserver,Wrath of Nature,1,Failure
+211,57,Preserver,Wrath of Nature,1,Failure
+211,57,Preserver,Wrath of Nature,4,Failure
+211,57,Preserver,Wrath of Nature,5,Success
+211,57,Preserver,Wrath of Nature,4,Failure
+211,57,Preserver,Chloroblast,4,Success
+211,57,Preserver,Succor: Ro,5,Success
+213,57,Preserver,Circle of Summer,1,Success
+214,57,Preserver,Spirit of Eagle,2,Failure
+214,57,Preserver,Wrath of Nature,7,Success
+214,57,Preserver,Enduring Breath,2,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Scoriae,1,Failure
+214,57,Preserver,Engorging Roots,2,Success
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Scoriae,2,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Ensnare,1,Success
+214,57,Preserver,Scoriae,2,Success
+214,57,Preserver,Ensnare,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Frost,4,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Scoriae,2,Success
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Wrath of Nature,6,Failure
+214,57,Preserver,Scoriae,1,Failure
+214,57,Preserver,Scoriae,2,Success
+214,57,Preserver,Drones of Doom,4,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Pack Chloroplast,2,Success
+214,57,Preserver,Drones of Doom,1,Failure
+214,57,Preserver,Ro`s Fiery Sundering,1,Failure
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Fixation of Ro,2,Failure
+214,57,Preserver,Wrath of Nature,2,Failure
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Fixation of Ro,3,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Scoriae,1,Failure
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Scoriae,2,Failure
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Scoriae,1,Failure
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Scoriae,2,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,3,Success
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Scoriae,1,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Egress,1,Failure
+214,57,Preserver,Circle of Feerrott,6,Success
+214,57,Preserver,Breath of Ro,17,Failure
+214,57,Preserver,Spirit of Eagle,1,Success
+214,57,Preserver,Circle of Wakening Lands,2,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,1,Failure
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Drones of Doom,2,Failure
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,2,Failure
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,2,Failure
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Drones of Doom,1,Failure
+214,57,Preserver,Drones of Doom,5,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,3,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,3,Failure
+214,57,Preserver,Wrath of Nature,4,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,4,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,2,Failure
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Spirit of Eagle,2,Success
+214,57,Preserver,Ring of Misty,1,Failure
+214,57,Preserver,Ring of Misty,2,Success
+214,57,Preserver,Scoriae,3,Failure
+214,57,Preserver,Engorging Roots,2,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Engorging Roots,2,Failure
+214,57,Preserver,Engorging Roots,2,Success
+214,57,Preserver,Scoriae,2,Failure
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Winged Death,1,Failure
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,2,Failure
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Wrath of Nature,5,Success
+214,57,Preserver,Drones of Doom,3,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,3,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Drones of Doom,2,Failure
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Ensnare,2,Success
+214,57,Preserver,Breath of Karana,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,4,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Gate,3,Success
+214,57,Preserver,Engorging Roots,2,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Scoriae,1,Failure
+214,57,Preserver,Pack Chloroplast,1,Success
+214,57,Preserver,Succor,6,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Winged Death,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Gate,2,Success
+214,57,Preserver,Breath of Karana,1,Success
+214,57,Preserver,Succor,12,Failure
+214,57,Preserver,Ensnare,1,Failure
+214,57,Preserver,Ensnare,1,Success
+214,57,Preserver,Wrath of Nature,4,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,2,Failure
+214,57,Preserver,Engorging Roots,2,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Drones of Doom,2,Failure
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Breath of Karana,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,2,Success
+214,57,Preserver,Breath of Karana,2,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Breath of Karana,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Breath of Karana,2,Success
+214,57,Preserver,Egress,1,Success
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Engorging Roots,2,Success
+214,57,Preserver,Wrath of Nature,3,Failure
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Drones of Doom,1,Failure
+214,57,Preserver,Improved Superior Camouflage,2,Failure
+214,57,Preserver,Breath of Karana,2,Failure
+214,57,Preserver,Wrath of Nature,3,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Scoriae,1,Failure
+214,57,Preserver,Scoriae,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,3,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Improved Superior Camouflage,1,Failure
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Drones of Doom,4,Success
+214,57,Preserver,Wrath of Nature,5,Success
+214,57,Preserver,Drones of Doom,2,Success
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Drones of Doom,1,Failure
+214,57,Preserver,Wrath of Nature,2,Failure
+214,57,Preserver,Wrath of Nature,5,Success
+214,57,Preserver,Ensnare,1,Success
+214,57,Preserver,Drones of Doom,5,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Scoriae,1,Failure
+214,57,Preserver,Scoriae,1,Failure
+214,57,Preserver,Scoriae,1,Failure
+214,57,Preserver,Scoriae,1,Failure
+214,57,Preserver,Wrath of Nature,2,Success
+214,57,Preserver,Wrath of Nature,2,Failure
+214,57,Preserver,Wrath of Nature,1,Success
+214,57,Preserver,Wrath of Nature,1,Failure
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Breath of Karana,1,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Engorging Roots,1,Failure
+214,57,Preserver,Pack Chloroplast,1,Success
+214,57,Preserver,Wrath of Nature,2,Failure
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Drones of Doom,1,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,2,Failure
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Resist Magic,1,Success
+214,57,Preserver,Wrath of Nature,4,Success
+214,57,Preserver,Engorging Roots,1,Success
+214,57,Preserver,Engorging Roots,2,Failure
+214,57,Preserver,Engorging Roots,2,Failure
+214,57,Preserver,Engorging Roots,2,Success
+214,57,Preserver,Engorging Roots,1,Success
+216,58,Preserver,Ensnare,2,Success
+216,58,Preserver,Ensnare,1,Success
+216,58,Preserver,Engorging Roots,1,Success
+216,58,Preserver,Scoriae,1,Success
+216,58,Preserver,Shield of Blades,2,Failure
+216,58,Preserver,Regrowth,1,Success
+216,58,Preserver,Wrath of Nature,1,Failure
+216,58,Preserver,Engorging Roots,1,Failure
+216,58,Preserver,Superior Healing,1,Failure
+216,58,Preserver,Superior Healing,1,Success
+216,58,Preserver,Ensnare,1,Success
+216,58,Preserver,Ensnare,1,Failure
+216,58,Preserver,Engorging Roots,1,Success
+216,58,Preserver,Wrath of Nature,5,Failure
+204,52,Wanderer,Engulfing Roots,1,Failure
+204,52,Wanderer,Fury of Air,1,Success
+204,52,Wanderer,Invigor,1,Failure
+204,52,Wanderer,Starfire,1,Success
+204,52,Wanderer,Starfire,2,Failure
+204,52,Wanderer,Fury of Air,1,Failure
+204,52,Wanderer,Fury of Air,1,Failure
+204,52,Wanderer,Engulfing Roots,2,Failure
+204,52,Wanderer,Engulfing Roots,2,Success
+204,52,Wanderer,Engulfing Roots,1,Success
+204,52,Wanderer,Spirit of Wolf,2,Success
+204,52,Wanderer,Snare,1,Failure
+204,52,Wanderer,Snare,1,Failure
+204,52,Wanderer,Starfire,1,Failure
+204,52,Wanderer,Starfire,1,Failure
+204,52,Wanderer,Drifting Death,2,Failure
+204,52,Wanderer,Engulfing Roots,1,Success
+204,52,Wanderer,Engulfing Roots,1,Failure
+204,52,Wanderer,Engulfing Roots,1,Failure
+204,52,Wanderer,Starfire,1,Success
+204,52,Wanderer,Starfire,1,Failure
+204,52,Wanderer,Starfire,2,Failure
+204,52,Wanderer,Snare,1,Success
+204,52,Wanderer,Engulfing Roots,1,Success
+204,52,Wanderer,Engulfing Roots,2,Failure
+204,52,Wanderer,Gate,1,Failure
+204,52,Wanderer,Gate,1,Failure
+204,52,Wanderer,Gate,3,Failure
+204,52,Wanderer,Engulfing Roots,1,Success
+204,52,Wanderer,Starfire,1,Failure
+204,52,Wanderer,Starfire,1,Failure
+204,52,Wanderer,Gate,2,Failure
+204,52,Wanderer,Engulfing Roots,2,Failure
+204,52,Wanderer,Starfire,1,Failure
+204,52,Wanderer,Ensnare,1,Success
+204,52,Wanderer,Engulfing Roots,1,Failure
+204,52,Wanderer,Starfire,1,Failure
+204,52,Wanderer,Snare,2,Success
+204,52,Wanderer,Snare,3,Failure
+204,52,Wanderer,Snare,1,Success
+204,52,Wanderer,Snare,2,Success
+204,52,Wanderer,Snare,1,Success
+204,52,Wanderer,Snare,2,Failure
+204,52,Wanderer,Drifting Death,1,Success
+204,52,Wanderer,Snare,1,Success
+205,52,Wanderer,Repulse Animal,1,Success
+205,52,Wanderer,Snare,1,Success
+205,52,Wanderer,Snare,1,Success
+205,52,Wanderer,Repulse Animal,1,Success
+205,52,Wanderer,Drifting Death,1,Success
+205,52,Wanderer,Repulse Animal,1,Failure
+205,52,Wanderer,Repulse Animal,2,Success
+205,52,Wanderer,Repulse Animal,1,Success
+206,52,Wanderer,Starfire,1,Failure
+206,52,Wanderer,Superior Healing,2,Failure
+206,52,Wanderer,Engulfing Roots,1,Success
+206,52,Wanderer,Shield of Thorns,1,Success
+206,52,Wanderer,Shield of Thorns,3,Success
+206,52,Wanderer,Superior Healing,2,Failure
+206,52,Wanderer,Superior Healing,4,Failure
+206,52,Wanderer,Starfire,1,Success
+206,52,Wanderer,Ensnare,3,Success
+206,52,Wanderer,Superior Healing,2,Failure
+206,52,Wanderer,Succor: Butcher,3,Failure
+206,52,Wanderer,Succor: Butcher,3,Success
+206,52,Wanderer,Legacy of Spike,1,Failure
+206,52,Wanderer,Ensnare,2,Failure
+206,52,Wanderer,Ensnare,1,Success
+206,52,Wanderer,Ensnare,1,Success
+206,52,Wanderer,Fury of Air,1,Success
+206,52,Wanderer,Legacy of Spike,1,Failure
+206,52,Wanderer,Engulfing Roots,1,Failure
+206,52,Wanderer,Superior Healing,1,Failure
+206,52,Wanderer,Fury of Air,1,Success
+206,52,Wanderer,Fury of Air,2,Success
+206,52,Wanderer,Engulfing Roots,1,Failure
+206,52,Wanderer,Engulfing Roots,2,Failure
+206,52,Wanderer,Engulfing Roots,1,Success
+206,52,Wanderer,Engulfing Roots,1,Failure
+206,52,Wanderer,Engulfing Roots,1,Failure
+206,52,Wanderer,Engulfing Roots,1,Success
+206,52,Wanderer,Engulfing Roots,1,Success
+206,52,Wanderer,Engulfing Roots,1,Failure
+206,52,Wanderer,Starfire,1,Failure
+206,52,Wanderer,Starfire,1,Success
+206,52,Wanderer,Snare,1,Success
+206,52,Wanderer,Ensnare,2,Failure
+206,52,Wanderer,Engulfing Roots,1,Success
+206,52,Wanderer,Engulfing Roots,1,Success
+206,52,Wanderer,Ensnare,1,Failure
+206,52,Wanderer,Ensnare,1,Success
+206,52,Wanderer,Fury of Air,1,Success
+206,52,Wanderer,Engulfing Roots,1,Success
+206,52,Wanderer,Ensnare,2,Failure
+206,52,Wanderer,Fury of Air,1,Success
+206,52,Wanderer,Starfire,1,Success
+206,52,Wanderer,Engulfing Roots,2,Failure
+206,52,Wanderer,Superior Healing,3,Failure
+206,52,Wanderer,Improved Superior Camouflage,1,Failure
+206,52,Wanderer,Camouflage,2,Success
+206,52,Wanderer,Ensnare,1,Failure
+206,52,Wanderer,Circle of Toxxulia,5,Success
+206,52,Wanderer,Ensnare,1,Success
+206,52,Wanderer,Snare,1,Failure
+206,52,Wanderer,Fury of Air,2,Failure
+208,54,Wanderer,Breath of Ro,1,Failure
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Scoriae,2,Failure
+208,54,Wanderer,Scoriae,2,Success
+208,54,Wanderer,Scoriae,2,Success
+208,54,Wanderer,Engulfing Roots,2,Success
+208,54,Wanderer,Superior Healing,1,Failure
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Superior Healing,1,Success
+208,54,Wanderer,Engulfing Roots,1,Failure
+208,54,Wanderer,Breath of Ro,1,Success
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Gate,3,Failure
+208,54,Wanderer,Gate,2,Success
+208,54,Wanderer,Engulfing Roots,2,Success
+208,54,Wanderer,Superior Healing,1,Failure
+208,54,Wanderer,Superior Healing,1,Failure
+208,54,Wanderer,Ensnare,1,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Fixation of Ro,6,Failure
+208,54,Wanderer,Superior Healing,3,Failure
+208,54,Wanderer,Superior Healing,1,Success
+208,54,Wanderer,Scoriae,1,Failure
+208,54,Wanderer,Circle of the Combines,2,Failure
+208,54,Wanderer,Circle of the Combines,1,Success
+208,54,Wanderer,Engulfing Roots,1,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Scoriae,1,Failure
+208,54,Wanderer,Scoriae,1,Success
+208,54,Wanderer,Superior Healing,3,Failure
+208,54,Wanderer,Scoriae,2,Failure
+208,54,Wanderer,Scoriae,2,Success
+208,54,Wanderer,Shield of Thorns,2,Success
+208,54,Wanderer,Ro`s Fiery Sundering,1,Success
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Superior Healing,1,Failure
+208,54,Wanderer,Scoriae,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Ro`s Fiery Sundering,1,Success
+208,54,Wanderer,Fixation of Ro,1,Failure
+208,54,Wanderer,Scoriae,1,Success
+208,54,Wanderer,Scoriae,1,Success
+208,54,Wanderer,Fixation of Ro,1,Success
+208,54,Wanderer,Wind of the North,1,Success
+208,54,Wanderer,Lightning Blast,1,Failure
+208,54,Wanderer,Superior Healing,2,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Scoriae,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Superior Healing,1,Failure
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Engulfing Roots,2,Success
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Scoriae,3,Failure
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Engulfing Roots,2,Success
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Scoriae,2,Failure
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Scoriae,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Scoriae,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Superior Healing,5,Failure
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Scoriae,1,Failure
+208,54,Wanderer,Scoriae,1,Success
+208,54,Wanderer,Scoriae,1,Failure
+208,54,Wanderer,Engulfing Roots,1,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Engulfing Roots,2,Success
+208,54,Wanderer,Engulfing Roots,1,Failure
+208,54,Wanderer,Scoriae,1,Success
+208,54,Wanderer,Scoriae,2,Failure
+208,54,Wanderer,Superior Healing,4,Failure
+208,54,Wanderer,Circle of Commons,1,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Breath of Ro,1,Success
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Scoriae,3,Failure
+208,54,Wanderer,Superior Healing,2,Failure
+208,54,Wanderer,Storm Strength,1,Success
+208,54,Wanderer,Engulfing Roots,3,Failure
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Drones of Doom,1,Success
+208,54,Wanderer,Storm Strength,1,Failure
+208,54,Wanderer,Scoriae,1,Failure
+208,54,Wanderer,Ensnare,1,Failure
+208,54,Wanderer,Ensnare,2,Success
+208,54,Wanderer,Drones of Doom,2,Success
+208,54,Wanderer,Drones of Doom,1,Failure
+208,54,Wanderer,Drones of Doom,1,Success
+208,54,Wanderer,Drones of Doom,1,Success
+208,54,Wanderer,Drones of Doom,3,Failure
+208,54,Wanderer,Drones of Doom,2,Success
+208,54,Wanderer,Ensnare,2,Failure
+208,54,Wanderer,Ensnare,1,Failure
+208,54,Wanderer,Drones of Doom,2,Success
+208,54,Wanderer,Drones of Doom,1,Failure
+208,54,Wanderer,Ensnare,2,Failure
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Ensnare,2,Failure
+208,54,Wanderer,Ensnare,1,Failure
+208,54,Wanderer,Drones of Doom,1,Success
+208,54,Wanderer,Superior Healing,1,Success
+208,54,Wanderer,Drones of Doom,2,Success
+208,54,Wanderer,Winged Death,2,Failure
+208,54,Wanderer,Ensnare,2,Failure
+208,54,Wanderer,Ensnare,2,Success
+208,54,Wanderer,Drones of Doom,1,Success
+208,54,Wanderer,Drones of Doom,1,Failure
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Drones of Doom,2,Failure
+208,54,Wanderer,Drones of Doom,2,Failure
+208,54,Wanderer,Drones of Doom,1,Failure
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Superior Camouflage,1,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Superior Healing,1,Failure
+208,54,Wanderer,Ensnare,2,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Terrorize Animal,2,Success
+208,54,Wanderer,Terrorize Animal,1,Success
+208,54,Wanderer,Scoriae,1,Failure
+208,54,Wanderer,Engulfing Roots,2,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Repulse Animal,1,Success
+208,54,Wanderer,Repulse Animal,1,Failure
+208,54,Wanderer,Repulse Animal,1,Failure
+208,54,Wanderer,Scoriae,3,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Engulfing Roots,1,Failure
+208,54,Wanderer,Engulfing Roots,1,Success
+208,54,Wanderer,Nullify Magic,1,Success
+208,54,Wanderer,Drones of Doom,3,Failure
+208,54,Wanderer,Ensnare,1,Success
+208,54,Wanderer,Ensnare,2,Success
+208,54,Wanderer,Engulfing Roots,1,Failure
+208,55,Wanderer,Ring of the Combines,1,Success
+208,55,Wanderer,Engulfing Roots,1,Failure
+208,55,Wanderer,Engulfing Roots,1,Success
+208,55,Wanderer,Engulfing Roots,1,Success
+208,55,Wanderer,Winged Death,1,Failure
+210,55,Wanderer,Engulfing Roots,1,Success
+210,55,Wanderer,Engulfing Roots,1,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Engulfing Roots,1,Success
+210,55,Wanderer,Winged Death,3,Failure
+210,55,Wanderer,Winged Death,2,Failure
+210,55,Wanderer,Engulfing Roots,1,Success
+210,55,Wanderer,Drones of Doom,2,Failure
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Engulfing Roots,1,Success
+210,55,Wanderer,Drones of Doom,1,Failure
+210,55,Wanderer,Drones of Doom,1,Failure
+210,55,Wanderer,Superior Camouflage,1,Failure
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Engulfing Roots,1,Success
+210,55,Wanderer,Circle of Toxxulia,2,Success
+210,55,Wanderer,Scoriae,1,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Winged Death,1,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Drones of Doom,2,Failure
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Drones of Doom,2,Success
+210,55,Wanderer,Drones of Doom,3,Success
+210,55,Wanderer,Drones of Doom,1,Failure
+210,55,Wanderer,Drones of Doom,2,Failure
+210,55,Wanderer,Drones of Doom,2,Success
+210,55,Wanderer,Breath of Ro,1,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Ensnare,1,Success
+210,55,Wanderer,Gate,4,Success
+210,55,Wanderer,Ensnare,1,Success
+210,55,Wanderer,Superior Healing,1,Failure
+210,55,Wanderer,Engulfing Roots,2,Success
+210,55,Wanderer,Ensnare,1,Success
+210,55,Wanderer,Engulfing Roots,1,Success
+210,55,Wanderer,Drones of Doom,2,Failure
+210,55,Wanderer,Ensnare,2,Failure
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Drones of Doom,1,Failure
+210,55,Wanderer,Scoriae,1,Failure
+210,55,Wanderer,Drones of Doom,5,Success
+210,55,Wanderer,Gate,3,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Drones of Doom,3,Success
+210,55,Wanderer,Pack Chloroplast,1,Failure
+210,55,Wanderer,Drones of Doom,1,Failure
+210,55,Wanderer,Shield of Thorns,1,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Ensnare,1,Failure
+210,55,Wanderer,Ensnare,1,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Ensnare,1,Success
+210,55,Wanderer,Drones of Doom,1,Failure
+210,55,Wanderer,Engulfing Roots,1,Success
+210,55,Wanderer,Engulfing Roots,1,Success
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Engulfing Roots,1,Success
+210,55,Wanderer,Drones of Doom,2,Failure
+210,55,Wanderer,Drones of Doom,1,Success
+210,55,Wanderer,Repulse Animal,3,Failure
+210,55,Wanderer,Repulse Animal,2,Failure
+210,55,Wanderer,Drones of Doom,1,Failure
+210,55,Wanderer,Engulfing Roots,1,Success
+95,18,Druid,Ignite,1,Failure
+95,18,Druid,Ignite,1,Failure
+95,18,Druid,Ignite,1,Success
+95,18,Druid,Strength of Earth,1,Failure
+95,18,Druid,Ignite,1,Failure
+145,28,Cleric,Inspire Fear,1,Failure
+145,28,Cleric,Inspire Fear,4,Failure
+145,28,Cleric,Dismiss Undead,2,Failure
+145,28,Cleric,Dismiss Undead,1,Success
+145,28,Cleric,Holy Might,1,Failure
+145,28,Cleric,Holy Might,2,Failure
+145,28,Cleric,Root,2,Failure
+145,28,Cleric,Smite,1,Success
+145,28,Cleric,Smite,1,Success
+145,28,Cleric,Smite,1,Success
+145,28,Cleric,Holy Might,1,Success
+145,28,Cleric,Yaulp II,1,Success
+145,28,Cleric,Smite,1,Success
+145,28,Cleric,Holy Might,1,Failure
+145,28,Cleric,Smite,1,Success
+145,28,Cleric,Smite,2,Failure
+155,28,Cleric,Wrath,1,Failure
+115,22,Shadow Knight,Fear,1,Success
+115,22,Shadow Knight,Clinging Darkness,1,Success
+115,22,Shadow Knight,Clinging Darkness,1,Failure
+115,22,Shadow Knight,Clinging Darkness,1,Failure
+115,22,Shadow Knight,Clinging Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Vampiric Embrace,1,Failure
+115,22,Shadow Knight,Siphon Strength,1,Success
+115,22,Shadow Knight,Siphon Strength,1,Failure
+115,22,Shadow Knight,Siphon Strength,1,Success
+115,22,Shadow Knight,Siphon Strength,1,Success
+115,22,Shadow Knight,Lifespike,1,Failure
+115,22,Shadow Knight,Siphon Strength,1,Failure
+115,22,Shadow Knight,Disease Cloud,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Disease Cloud,1,Success
+115,22,Shadow Knight,Siphon Strength,2,Failure
+115,22,Shadow Knight,Disease Cloud,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,2,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Success
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Success
+115,22,Shadow Knight,Disease Cloud,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Success
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Siphon Strength,1,Failure
+115,22,Shadow Knight,Siphon Strength,1,Success
+115,22,Shadow Knight,Lifespike,1,Failure
+115,22,Shadow Knight,Lifespike,2,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Success
+115,22,Shadow Knight,Siphon Strength,1,Success
+115,22,Shadow Knight,Lifespike,1,Success
+115,22,Shadow Knight,Disease Cloud,1,Success
+115,22,Shadow Knight,Engulfing Darkness,2,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Success
+115,22,Shadow Knight,Disease Cloud,1,Failure
+115,22,Shadow Knight,Disease Cloud,1,Failure
+115,22,Shadow Knight,Siphon Strength,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Success
+115,22,Shadow Knight,Disease Cloud,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Success
+115,22,Shadow Knight,Engulfing Darkness,2,Failure
+115,22,Shadow Knight,Lifespike,1,Failure
+115,22,Shadow Knight,Engulfing Darkness,2,Failure
+115,22,Shadow Knight,Engulfing Darkness,1,Failure
+115,23,Shadow Knight,Lifespike,1,Failure
+116,23,Shadow Knight,Lifespike,1,Success
+116,23,Shadow Knight,Engulfing Darkness,1,Failure
+116,23,Shadow Knight,Engulfing Darkness,1,Failure
+116,23,Shadow Knight,Engulfing Darkness,1,Success
+116,23,Shadow Knight,Engulfing Darkness,1,Failure
+116,23,Shadow Knight,Fear,1,Success
+116,23,Shadow Knight,Fear,1,Success
+116,23,Shadow Knight,Engulfing Darkness,1,Success
+116,23,Shadow Knight,Fear,1,Failure
+116,23,Shadow Knight,Fear,1,Failure
+116,23,Shadow Knight,Engulfing Darkness,2,Failure
+116,23,Shadow Knight,Engulfing Darkness,1,Failure
+116,23,Shadow Knight,Engulfing Darkness,1,Failure
+117,23,Shadow Knight,Disease Cloud,2,Failure
+117,23,Shadow Knight,Engulfing Darkness,1,Failure
+117,23,Shadow Knight,Engulfing Darkness,1,Failure
+117,23,Shadow Knight,Engulfing Darkness,1,Failure
+117,23,Shadow Knight,Siphon Strength,1,Success
+118,23,Shadow Knight,Disease Cloud,1,Success
+118,23,Shadow Knight,Disease Cloud,1,Success
+118,23,Shadow Knight,Engulfing Darkness,1,Failure
+118,23,Shadow Knight,Siphon Strength,1,Success
+119,23,Shadow Knight,Engulfing Darkness,1,Success
+119,23,Shadow Knight,Siphon Strength,1,Failure
+119,23,Shadow Knight,Disease Cloud,1,Success
+119,23,Shadow Knight,Siphon Strength,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Siphon Strength,1,Failure
+120,23,Shadow Knight,Siphon Strength,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Lifespike,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Siphon Strength,2,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Siphon Strength,1,Failure
+120,23,Shadow Knight,Siphon Strength,2,Success
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Lifespike,1,Failure
+120,23,Shadow Knight,Disease Cloud,1,Failure
+120,23,Shadow Knight,Siphon Strength,1,Failure
+120,23,Shadow Knight,Siphon Strength,1,Success
+120,23,Shadow Knight,Siphon Strength,1,Success
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Siphon Strength,2,Failure
+120,23,Shadow Knight,Siphon Strength,1,Success
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Success
+120,23,Shadow Knight,Siphon Strength,1,Success
+120,23,Shadow Knight,Engulfing Darkness,2,Success
+120,23,Shadow Knight,Lifespike,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Fear,1,Failure
+120,23,Shadow Knight,Fear,1,Failure
+120,23,Shadow Knight,Fear,1,Failure
+120,23,Shadow Knight,Fear,1,Failure
+120,23,Shadow Knight,Fear,1,Success
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Disease Cloud,2,Failure
+120,23,Shadow Knight,Lifespike,1,Failure
+120,23,Shadow Knight,Disease Cloud,1,Success
+120,23,Shadow Knight,Siphon Strength,2,Success
+120,23,Shadow Knight,Fear,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Success
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Success
+120,23,Shadow Knight,Fear,2,Failure
+120,23,Shadow Knight,Fear,1,Failure
+120,23,Shadow Knight,Fear,1,Success
+120,23,Shadow Knight,Fear,1,Failure
+120,23,Shadow Knight,Fear,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Fear,1,Failure
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Siphon Strength,1,Failure
+120,23,Shadow Knight,Siphon Strength,1,Failure
+120,23,Shadow Knight,Vampiric Embrace,1,Failure
+120,23,Shadow Knight,Disease Cloud,1,Failure
+120,23,Shadow Knight,Lifespike,1,Success
+120,23,Shadow Knight,Lifespike,1,Failure
+120,23,Shadow Knight,Siphon Strength,1,Success
+120,23,Shadow Knight,Disease Cloud,1,Success
+120,23,Shadow Knight,Engulfing Darkness,1,Failure
+120,23,Shadow Knight,Siphon Strength,1,Failure
+120,23,Shadow Knight,Lifespike,1,Failure
+120,23,Shadow Knight,Lifespike,1,Success
+120,23,Shadow Knight,Disease Cloud,1,Failure
+120,23,Shadow Knight,Disease Cloud,1,Success
+120,24,Shadow Knight,Disease Cloud,1,Success
+120,24,Shadow Knight,Siphon Strength,1,Success
+120,24,Shadow Knight,Lifespike,1,Failure
+120,24,Shadow Knight,Lifespike,1,Success
+120,24,Shadow Knight,Engulfing Darkness,1,Failure
+124,24,Shadow Knight,Engulfing Darkness,1,Failure
+125,24,Shadow Knight,Lifespike,1,Failure
